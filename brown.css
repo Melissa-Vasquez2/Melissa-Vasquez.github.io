@@ -8,3 +8,6 @@ nav{
     background-color:white;
     color:black;
 }
+nav p{
+    display:inline;
+}
